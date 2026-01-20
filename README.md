@@ -1,0 +1,2 @@
+# IT-General-Controls-ITGC-Logical-Access-Review-using-Microsoft-Entra-ID-Free-Tier-
+Performed an IT General Controls (ITGC) Logical Access Review using Microsoft Entra ID to evaluate user access, role assignments, authentication controls, and audit logging.  The project focused on reviewing access governance, least privilege enforcement, and audit evidence collection aligned with IT Audit and GRC requirements.
